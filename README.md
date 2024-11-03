@@ -8,3 +8,5 @@
 3) Wolberg, G. (1990). Digital image warping. IEEE.
 
 4) Arfken, G. B., & Weber, H. J. (2013). Mathematical methods for physicists (4th ed.). Academic Press.
+
+5) Parker, J. R. (2010). Algorithms for image processing and computer vision (2nd ed.). Wiley.
